@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="JOHSA-POS.Data/JOHSA-POS.Data.csproj" Id="6072ed6f-3401-4da0-9a67-236ccc0218e6" />
+  <Project Path="JOHSA-POS.Domain/JOHSA-POS.Domain.csproj" Id="8c78845b-d0e8-4844-97b3-ab4b8f028d4d" />
+  <Project Path="JOHSA-POS.Services/JOHSA-POS.Services.csproj" Id="525d2e8d-eaad-4909-ba71-08ec75008eea" />
+  <Project Path="JOHSA-POS.WinForms/JOHSA-POS.WinForms.csproj" Id="0981124b-4dde-481d-a421-33fbc8f14a2a" />
+</Solution>

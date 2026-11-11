@@ -1,0 +1,40 @@
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio temporary files
+*.cache
+*.pdb
+*.ilk
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Generated installer output
+Output/
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.old
+
+# Installer prerequisites (large files)
+Prerequisites/*.msi
+Prerequisites/*.exe
